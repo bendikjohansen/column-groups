@@ -1,0 +1,989 @@
+[
+  {
+    "city": "Oslo",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054934",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Colosseum",
+        "description": "Middelthunsgate 19\n0368 Oslo\nTlf: 23 19 96 30",
+        "latitude": 59.928432,
+        "longitude": 10.711062,
+        "email": "rune.payan@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054935",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS CC Vest",
+        "description": "Lilleakerveien 14\n0283 Oslo\nTlf: 22 73 61 00",
+        "latitude": 59.916019,
+        "longitude": 10.635484,
+        "email": "kjerstin.afloydal@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054936",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Ringnes Park",
+        "description": "Sannergata 6B\n0557 Oslo\nTlf: 22 04 55 00",
+        "latitude": 59.928589,
+        "longitude": 10.759716,
+        "email": "hanna.pedersen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054937",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Sandvika Panorama",
+        "description": "Sandviksveien 176\n1337 Sandvika\nTlf: 67 80 83 50",
+        "latitude": 59.886848,
+        "longitude": 10.52114,
+        "email": "linn.drageset@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054938",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Asker",
+        "description": "Erteløkka 1\n1384 Asker\nTlf: 66 98 73 00",
+        "latitude": 59.834381,
+        "longitude": 10.43826,
+        "email": "lasse.sando@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054939",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Carl Berner",
+        "description": "Trondheimsveien 135\n0570 Oslo\nTlf: 22 04 64 00",
+        "latitude": 59.928768,
+        "longitude": 10.77819,
+        "email": "anton.johannisson@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905493a",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Sjølyst",
+        "description": "Karenlyst Allé 7\n0278 Oslo\nTlf: 23 27 70 00",
+        "latitude": 59.91993,
+        "longitude": 10.68564,
+        "email": "inger.henden@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905493b",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Lambertseter",
+        "description": "Cecilie Thoresens vei 3\n1153 Oslo\nTlf: 22 76 90 70",
+        "latitude": 59.87859,
+        "longitude": 10.80765,
+        "email": "charlotte.gundersen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054946",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Bjørvika",
+        "description": "Dronning Eufemias Gate 18\n0191 Oslo",
+        "latitude": 59.907959,
+        "longitude": 10.75786,
+        "email": "Ida.Bjorkli@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905494f",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Karlsrud",
+        "description": "Langbølgen 5. Bygg C\n1150 Oslo\nTlf: 21 42 03 60",
+        "latitude": 59.87307,
+        "longitude": 10.811848,
+        "email": "isabella.kristiansen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054951",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "Balderklinikken",
+        "description": "Munchs gate 7\n0165 Oslo\nTlf: 08890",
+        "latitude": 59.917549,
+        "longitude": 10.740996,
+        "email": "post@balderklinikken.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054953",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Røa",
+        "description": "Tore Hals Mejdells vei 18\n0751 Oslo\nTlf: 23 30 77 70",
+        "latitude": 59.94627,
+        "longitude": 10.643414,
+        "email": "frode.michalsen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054954",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Akersgata",
+        "description": "Akersgata 51\n0180 Oslo\nTlf: 23 30 77 45",
+        "latitude": 59.914745,
+        "longitude": 10.74325,
+        "email": "therese.ellingsdalen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905495a",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Bislett",
+        "description": "Bislettgata 6\n0170 Oslo\nTlf: 23 30 77 15",
+        "latitude": 59.924477,
+        "longitude": 10.732352,
+        "email": "pieter.wahl@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054961",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "Preventia Executive Health",
+        "description": "Frøyas gate 13\n\n0273 Oslo",
+        "latitude": 59.91721,
+        "longitude": 10.694724,
+        "email": "info@preventia.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054965",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "Atlet Fysio Avd. Rosenholm",
+        "description": "Rosenholmveien 25\n1414 Trollåsen",
+        "latitude": 59.82196,
+        "longitude": 10.78724,
+        "email": "espen@atletfysio.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054966",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Nydalen",
+        "description": "Sandakerveien 109-111\n0484 Oslo",
+        "latitude": 59.947929,
+        "longitude": 10.77024,
+        "email": "hans-erik.vist@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054967",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Linderud",
+        "description": "Erich Mogensøns Vei 38\n0594 Oslo",
+        "latitude": 59.943241,
+        "longitude": 10.83547,
+        "email": "anita.pedersen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054968",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Schous Plass",
+        "description": "Trondheimsveien 2D\n0560 Oslo",
+        "latitude": 59.918861,
+        "longitude": 10.76032,
+        "email": "hans-erik.vist@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054969",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Storo",
+        "description": "Vitaminveien 5\n0485 Oslo",
+        "latitude": 59.94751,
+        "longitude": 10.7765,
+        "email": "anja.hagen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905496a",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Fornebu",
+        "description": "Forneburingen 209\n1364 Fornebu",
+        "latitude": 59.893829,
+        "longitude": 10.61866,
+        "email": "kim.myrvang@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905496b",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Bekkestua",
+        "description": "Gamle Ringeriksvei 34C\n1357 Bekkestua",
+        "latitude": 59.91637,
+        "longitude": 10.58805,
+        "email": "victoria.kippersund@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905496c",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Vinderen",
+        "description": "Slemdalsveien 70\n0370 Oslo",
+        "latitude": 59.942299,
+        "longitude": 10.70361,
+        "email": "eli-anne.tronbol@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905496f",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Ullevål",
+        "description": "KAL clinic, Sognsveien 75F\n0855 Oslo",
+        "latitude": 59.949402,
+        "longitude": 10.73585,
+        "email": "anette.roness@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054972",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Solli",
+        "description": "Henrik Ibsensgate 100\n0254 Oslo",
+        "latitude": 59.914368,
+        "longitude": 10.718747,
+        "email": "an-maritha.haugen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5f6bb448e1c4591912ad4cf6",
+        "cityId": "5ec03e6c5a8b1349a9054913",
+        "name": "SATS Sagene",
+        "description": "Pontoppidans gate 7\n0462 Oslo\n",
+        "latitude": 59.93644,
+        "longitude": 10.75414,
+        "email": "paal.hanssen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Bergen",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054932",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "SATS Nesttun",
+        "description": "Apeltunvegen 2\n5222 Nesttun\nTlf: 55 92 77 80",
+        "latitude": 60.311565,
+        "longitude": 5.354544,
+        "email": "paal.hanssen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054933",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "SATS Kokstad",
+        "description": "Kokstadveien 25B\n5257 Kokstad\nTlf: 55 98 65 20",
+        "latitude": 60.296402,
+        "longitude": 5.266177,
+        "email": "kristin.leknessund@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054944",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Fitfactory - Bergen",
+        "description": "*Ørnen:* Lars Hilles gate 18, 5008 Bergen\n\n*Midttun:* Sandbrekkevegen 96 5223 Nesttun",
+        "latitude": 60.31768,
+        "longitude": 5.36471,
+        "email": "christer@fitfactory.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905494a",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "In Shape ",
+        "description": "Hallheimslien 10",
+        "latitude": 60.378559,
+        "longitude": 5.225865,
+        "email": "resepsjon@in-shape.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905494b",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "SATS Lars Hilles Gate",
+        "description": "Lars Hillesgate 29\n\n5008 Bergen",
+        "latitude": 60.385296,
+        "longitude": 5.331953,
+        "email": "emilia.johansson@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905494d",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "SATS Sandviken",
+        "description": "Måseskjæret 3\n5035 Bergen\nTlf: 55 39 50 00",
+        "latitude": 60.41283,
+        "longitude": 5.32073,
+        "email": "cecilie.Wilhelmsen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054955",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Arsana AS",
+        "description": "Strandgaten 14\ninngang Fortunen 3\n5013 Bergen\nTlf: 55 55 05 80",
+        "latitude": 60.394176,
+        "longitude": 5.321904,
+        "email": "vibeke.Blomvagnes@arsana.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054956",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Legekontoret for sjømenn",
+        "description": "*Inbody 220*\nStrandgaten 18\n5013 BERGEN\nTlf: 55 54 40 30",
+        "latitude": 60.394386,
+        "longitude": 5.321347,
+        "email": "mari@sjomannslege.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054963",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Nr1 Fitness Mathopen",
+        "description": "Skareveien 1A\n5174 Mathopen\nTlf: 55 16 57 00",
+        "latitude": 60.333595,
+        "longitude": 5.211167,
+        "email": "marius@nr1fitness.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": true
+      },
+      {
+        "id": "5ec060cb5a8b1349a905496e",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Paradis Helse",
+        "description": "Sandbrekkevegen 13\n5231 Paradis",
+        "latitude": 60.33609,
+        "longitude": 5.35059,
+        "email": "bibbiduus@paradishelse.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": true
+      },
+      {
+        "id": "5f778fcfe1c4591912ad4cf7",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Terskeltest",
+        "description": "Vollane 2\n5105 Eidsvåg i Åsane\n*Tlf:* 90 30 543",
+        "latitude": 60.437141,
+        "longitude": 5.32072,
+        "email": "s.carlson@maaloy.com",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5f7b79bbe1c4591912ad4cf8",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Aktiv365 Paradis",
+        "description": "Tjernvegen 30\n5232 Paradis",
+        "latitude": 60.332142,
+        "longitude": 5.34898,
+        "email": "elin-merete.iden@aktiv365.com",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5f7b7d8ee1c4591912ad4cfb",
+        "cityId": "5ec03e6c5a8b1349a9054914",
+        "name": "Progresjon",
+        "description": "*InBody 720*\nKrokatjønnveien 15\n5147 Fyllingsdalen",
+        "latitude": 60.34758,
+        "longitude": 5.27606,
+        "email": "post@progresjon.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Drammen",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905493c",
+        "cityId": "5ec03e6c5a8b1349a9054915",
+        "name": "SATS Drammen",
+        "description": "Nedre Storgate 31\n3015 Drammen\nTlf: 32 23 47 51",
+        "latitude": 59.742611,
+        "longitude": 10.21214,
+        "email": "thomas.evensen@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Førde",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905493d",
+        "cityId": "5ec03e6c5a8b1349a9054916",
+        "name": "Spenst Førde",
+        "description": "Hafstadvegen 36\n6800 Førde\nTlf. 57 72 01 21",
+        "latitude": 61.45034,
+        "longitude": 5.85555,
+        "email": "hanne@lienhelse.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Stavanger",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905493e",
+        "cityId": "5ec03e6c5a8b1349a9054917",
+        "name": "SATS Madla",
+        "description": "Madlakrossen 9\n4042 Hafrsfjord\nTlf:",
+        "latitude": 58.9524,
+        "longitude": 5.68004,
+        "email": "andreas.middelthon@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054945",
+        "cityId": "5ec03e6c5a8b1349a9054917",
+        "name": "SATS Hillevåg",
+        "description": "Gartnerveien 4\n4016 Stavanger\nTlf: 52 69 51 50",
+        "latitude": 58.949471,
+        "longitude": 5.74139,
+        "email": "nadine.willems.underhaug@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054947",
+        "cityId": "5ec03e6c5a8b1349a9054917",
+        "name": "Aktiv Treningssenter",
+        "description": "Tjensvolltorget 36\n4021 Stavanger\nTlf: 51 55 86 44",
+        "latitude": 58.949871,
+        "longitude": 5.69635,
+        "email": "nina.bredal@lyse.net",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Ålesund",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054975",
+        "cityId": "5ec03e6c5a8b1349a9054918",
+        "name": "Sprek365 Nordvest AS",
+        "description": "Sprek365 Nordvest AS\n\nGjøsundneset 3\n\n6040 Vigra",
+        "latitude": 62.532318,
+        "longitude": 6.12617,
+        "email": "post@sprek365.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  { "city": "Fredrikstad", "machines": [] },
+  {
+    "city": "Trondheim",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054974",
+        "cityId": "5ec03e6c5a8b1349a905491a",
+        "name": "Trim Trening Trivsel (3T)",
+        "description": "Vestre Rosten 80\n7075 Tiller\nTlf: 72888777",
+        "latitude": 63.365131,
+        "longitude": 10.37146,
+        "email": "rosten.trener@3t.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Lillestrøm",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054970",
+        "cityId": "5ec03e6c5a8b1349a905491b",
+        "name": "SATS Lillestrøm",
+        "description": "Dampsagveien 12\n2004 Lillestrøm",
+        "latitude": 59.952431,
+        "longitude": 11.04461,
+        "email": "renate.roli@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Lillehammer",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905493f",
+        "cityId": "5ec03e6c5a8b1349a905491c",
+        "name": "SATS Lillehammer",
+        "description": "Sliperiveien 2\n2609 Lillehammer",
+        "latitude": 61.114811,
+        "longitude": 10.45616,
+        "email": "hege.brenden@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905495f",
+        "cityId": "5ec03e6c5a8b1349a905491c",
+        "name": "Spenst Arena Lillehammer",
+        "description": "Hagevegen 4\n\n2613 Lillehammer",
+        "latitude": 61.100491,
+        "longitude": 10.470776,
+        "email": "post@spenstlillehammer.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054960",
+        "cityId": "5ec03e6c5a8b1349a905491c",
+        "name": "Spenst Lillehammer",
+        "description": "Oskar Skoglysveg 2\n\n2619 Lillehammer",
+        "latitude": 61.130981,
+        "longitude": 10.448615,
+        "email": "post@spenstlillehammer.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Haugesund",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054940",
+        "cityId": "5ec03e6c5a8b1349a905491e",
+        "name": "Klinikk Selsaas",
+        "description": "Rennesøygata 16\n5537 Haugesund",
+        "latitude": 59.387001,
+        "longitude": 5.312614,
+        "email": "regy@klinikk-selsaas.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Molde",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054941",
+        "cityId": "5ec03e6c5a8b1349a905491f",
+        "name": "Bris Trening",
+        "description": "Gideonvegen 2\n6412 Molde\nTlf: 71 20 33 00",
+        "latitude": 62.733212,
+        "longitude": 7.14407,
+        "email": "post@bris-trening.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054942",
+        "cityId": "5ec03e6c5a8b1349a905491f",
+        "name": "Treningssenteret Moldehallen",
+        "description": "Verftsgata 10\n6416 Molde\nTlf: 71 25 47 65",
+        "latitude": 64.466423,
+        "longitude": 11.49191,
+        "email": "post@treningssenteret.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054958",
+        "cityId": "5ec03e6c5a8b1349a905491f",
+        "name": "Pro Gym Molde",
+        "description": "Julsundvegen 49\n6412 MOLDE",
+        "latitude": 62.734196,
+        "longitude": 7.141239,
+        "email": "molde@progym.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  { "city": "Gjøvik", "machines": [] },
+  {
+    "city": "Kristiansand",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054971",
+        "cityId": "5ec03e6c5a8b1349a9054921",
+        "name": "SATS Aquarama",
+        "description": "Tangen 8\n4608 Kristiansand",
+        "latitude": 58.146873,
+        "longitude": 8.006752,
+        "email": "christer.kleiven@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Bryne",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905494e",
+        "cityId": "5ec03e6c5a8b1349a9054922",
+        "name": "Livskraft AS",
+        "description": "Forum Jæren, 2.etg.\nHetlandsgaten 9\n4340 Bryne\nTlf: 48 28 55 85",
+        "latitude": 58.734325,
+        "longitude": 5.650308,
+        "email": "post@livskraft.as,helene@livskraft.as",
+        "isSatsElixia": false,
+        "hidden": true,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a9054962",
+        "cityId": "5ec03e6c5a8b1349a9054922",
+        "name": "SATS Bryne",
+        "description": "Trallfaveien 1\n\n4340 Bryne\n\nTlf: 51 77 77 77",
+        "latitude": 58.73082,
+        "longitude": 5.65185,
+        "email": "helene.lerbrekk@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Sandnes",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054964",
+        "cityId": "5ec03e6c5a8b1349a9054923",
+        "name": "FitCamp",
+        "description": "Luramyrveien 25a\n4313 Sandnes\nTlf: 408 61 335",
+        "latitude": 58.879269,
+        "longitude": 5.7251,
+        "email": "cato@motivera.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  { "city": "Straume", "machines": [] },
+  { "city": "Oppland", "machines": [] },
+  {
+    "city": "Voss",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905495e",
+        "cityId": "5ec03e6c5a8b1349a9054927",
+        "name": "Voss Kiropraktorkontor",
+        "description": "Stallgata 10\n\n5700 Voss",
+        "latitude": 60.629562,
+        "longitude": 6.417043,
+        "email": "post@vkk.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Kongsberg",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054950",
+        "cityId": "5ec03e6c5a8b1349a9054928",
+        "name": "Kongsberg Medisinske Treningssenter",
+        "description": "Idrettsveien 4\n3617 Kongsberg\nTlf: 32 77 23 90",
+        "latitude": 59.680492,
+        "longitude": 9.629132,
+        "email": "line@kongsberg-med.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Florø",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054957",
+        "cityId": "5ec03e6c5a8b1349a9054929",
+        "name": "Spenst Florø",
+        "description": "Hestenesgata\n6900 Florø\nTlf. 45 96 63 68",
+        "latitude": 61.601349,
+        "longitude": 5.038034,
+        "email": "hanne@lienhelse.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Årdal",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054959",
+        "cityId": "5ec03e6c5a8b1349a905492a",
+        "name": "Årdal Gym",
+        "description": "Elvavegen 4\n6884 Øvre Årdal",
+        "latitude": 61.308708,
+        "longitude": 7.808015,
+        "email": "ramona@shaper-as.com",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Søgne",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905495b",
+        "cityId": "5ec03e6c5a8b1349a905492b",
+        "name": "Family Sportsclub Søgne",
+        "description": "Rådhusveien 35 -37\n4640 Søgne\nTlf: 380 53 500",
+        "latitude": 58.096428,
+        "longitude": 7.813246,
+        "email": "Benedicte.andresen@fsc.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      },
+      {
+        "id": "5ec060cb5a8b1349a905495c",
+        "cityId": "5ec03e6c5a8b1349a905492b",
+        "name": "Testsenter",
+        "description": "Rådhusveien 35 -37\n4640 Søgne\nTlf: 380 53 500",
+        "latitude": 60.347012,
+        "longitude": 5.38286,
+        "email": "erik@eb-webutvikling.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Tromsø",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a905496d",
+        "cityId": "5ec03e6c5a8b1349a905492c",
+        "name": "SATS Langnes",
+        "description": "Huldervegen 8, 9016\nTromsø",
+        "latitude": 69.669983,
+        "longitude": 18.92128,
+        "email": "alexander.forsberg@sats.no",
+        "isSatsElixia": true,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  { "city": "Egersund", "machines": [] },
+  {
+    "city": "Varhaug",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054973",
+        "cityId": "5ec03e6c5a8b1349a905492e",
+        "name": "Varhaugspulsen",
+        "description": "Stasjonsveien 14, 4360 Varhaug",
+        "latitude": 63.416618,
+        "longitude": 11.74266,
+        "email": "ronny_gudmestad@hotmail.com",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Hønefoss",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054976",
+        "cityId": "5ec03e6c5a8b1349a9054930",
+        "name": "Studio STARSHAPE Hønefoss",
+        "description": "Klekken Hills\n\n3514 Hønefoss\n\nNorge\n\nTlf: 932 62240",
+        "latitude": 60.181042,
+        "longitude": 10.30436,
+        "email": "marius@starshape.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Sandefjord",
+    "machines": [
+      {
+        "id": "5ec060cb5a8b1349a9054952",
+        "cityId": "5ec042465a8b1349a9054931",
+        "name": "E2 Helse Sandefjord",
+        "description": "Nygårdsveien 84\n3221 Sandefjord\nTlf: 47876500",
+        "latitude": 59.137577,
+        "longitude": 10.178484,
+        "email": "helse@e2.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": true
+      }
+    ]
+  },
+  {
+    "city": "Sarpsborg",
+    "machines": [
+      {
+        "id": "5f6badede1c4591912ad4cf3",
+        "cityId": "5f6bac1ce1c4591912ad4cf2",
+        "name": "Klinikk A.B.",
+        "description": "InBody 270*\n\nHaftor Jonssons gate 19\n\n1725 Sarpsborg",
+        "latitude": 59.285881,
+        "longitude": 11.0985,
+        "email": "andre@friskebedrifter.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Skien",
+    "machines": [
+      {
+        "id": "5f6bb25ae1c4591912ad4cf5",
+        "cityId": "5f6bb19de1c4591912ad4cf4",
+        "name": "Sprek Fritid Skien",
+        "description": "Fridtjof Nansens gate 21\n3722 Skien\n",
+        "latitude": 59.212181,
+        "longitude": 9.58932,
+        "email": "kontaktskien@sprekfritid.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  },
+  {
+    "city": "Bodø",
+    "machines": [
+      {
+        "id": "5f7b7b42e1c4591912ad4cfa",
+        "cityId": "5f7b7acbe1c4591912ad4cf9",
+        "name": "BB Gym",
+        "description": "*InBody 270*\nLangstranda 5\n8003 Bodø\nTlf: 75 56 31 00",
+        "latitude": 67.27063,
+        "longitude": 14.34179,
+        "email": "post.bodo@bbgym.no",
+        "isSatsElixia": false,
+        "hidden": false,
+        "hidePrice": false
+      }
+    ]
+  }
+]

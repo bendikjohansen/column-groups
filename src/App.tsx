@@ -1,58 +1,59 @@
-import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
-import './App.css';
+import {
+  Box,
+  Divider,
+  makeStyles,
+  Paper,
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableRow,
+  Typography,
+} from "@material-ui/core";
+import React from "react";
+import useFetchData from "./hooks/useFetchData";
 
-function App() {
+const useStyles = makeStyles({
+  root: {
+    width: "100%",
+  },
+});
+
+const App = () => {
+  const data = useFetchData();
+  const classes = useStyles();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <Counter />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <span>
-          <span>Learn </span>
-          <a
-            className="App-link"
-            href="https://reactjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React
-          </a>
-          <span>, </span>
-          <a
-            className="App-link"
-            href="https://redux.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Redux
-          </a>
-          <span>, </span>
-          <a
-            className="App-link"
-            href="https://redux-toolkit.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Redux Toolkit
-          </a>
-          ,<span> and </span>
-          <a
-            className="App-link"
-            href="https://react-redux.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Redux
-          </a>
-        </span>
-      </header>
-    </div>
+    <Table size="small" className={classes.root} component={Paper}>
+      {data.map((tableGroup) => (
+        <React.Fragment key={tableGroup.key}>
+          <TableHead>
+            <TableRow>
+              {tableGroup.headers.map((header) => (
+                <TableCell key={header}>
+                  <Typography variant="h6">{header}</Typography>
+                </TableCell>
+              ))}
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {tableGroup.data.map((row) => (
+              <TableRow>
+                {row.map((datum) => (
+                  <TableCell key={datum.id}>{datum.name}</TableCell>
+                ))}
+              </TableRow>
+            ))}
+          </TableBody>
+          <TableRow>
+            <TableCell colSpan={3}>
+              <Box marginTop={4} />
+            </TableCell>
+          </TableRow>
+        </React.Fragment>
+      ))}
+    </Table>
   );
-}
+};
 
 export default App;
